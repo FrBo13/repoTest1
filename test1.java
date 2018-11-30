@@ -4,7 +4,7 @@ public class test1
     {
         String s;
         for (int i=0; i<5;i++) {
-            s = "Ligne n°" + i ;
+            s = "Ligne num " + i ;
             System.out.println(s);
         }
     }
